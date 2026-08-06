@@ -1,0 +1,4 @@
+interface:
+  display_name: "招投标公告语义清洗"
+  short_description: "通过八爪鱼任务或本地公告完成29字段语义清洗和标准交付"
+  default_prompt: "Use $tender-cleaner to semantically clean my tender notices into validated 29-field outputs."

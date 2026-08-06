@@ -1,0 +1,18 @@
+# Credentials and local environment
+.env
+.env.*
+*.key
+*.pem
+
+# Generated outputs and downloaded source data
+tender-run-*/
+example-output/
+raw/
+clean/
+manifest.json
+
+# Python cache and virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
